@@ -9,3 +9,4 @@
 ## Лекция 2
 * git branch - вывод веток
 * branch - ветка
+* git branch name - создание ветки
