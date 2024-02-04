@@ -10,3 +10,4 @@
 * git branch - вывод веток
 * branch - ветка
 * git branch name - создание ветки
+* git diff - показать разницу между ветками
