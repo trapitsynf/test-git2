@@ -12,3 +12,4 @@
 * git branch name - создание ветки
 * git diff - показать разницу между ветками
 * git checkout - переход между ветками
+* git branch -d name - удаление ветки
