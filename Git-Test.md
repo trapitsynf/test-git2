@@ -11,4 +11,4 @@
 * branch - ветка
 * git branch name - создание ветки
 * git diff - показать разницу между ветками
-* git checkout
+* git checkout - переход между ветками
